@@ -141,7 +141,7 @@ Features:
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4ns20k73pwneg92qpvlntlgrs&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view)
 
 </div>
 
