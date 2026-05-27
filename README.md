@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Z-ZxZ/Z-ZxZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Z-ZxZ
 
-Here are some ideas to get you started:
+### Web Developer • AI Integration • Scalable Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Focused+on+Scalable+Backend+Systems;AI+Integration+%26+Realtime+Applications;Clean+Design+Meets+Solid+Architecture" />
+
+</div>
+
+---
+
+## About Me
+
+```ts
+const zzxz = {
+  role: "Web Developer",
+  focus: [
+    "Responsive Web Design",
+    "Backend Architecture",
+    "AI Integration",
+    "Realtime Systems"
+  ],
+  
+  tech: {
+    frontend: ["Next.js", "React", "TypeScript"],
+    backend: ["FastAPI", "Django", "Golang"],
+    database: ["PostgreSQL", "SQLite", "Redis"],
+    tools: ["Docker", "Nginx", "Firebase", "Supabase"],
+    ai: ["PyTorch"]
+  }
+}
