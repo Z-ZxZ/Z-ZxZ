@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:58A6FF&text=FDHL-FDK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1A5C38,100:4ADE80&text=FDHL-FDK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descAlignY=58&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Digital+Products+with+Code;Exploring+Web,+Backend,+and+AI;Always+Learning,+Always+Improving" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=4ADE80&center=true&vCenter=true&width=850&lines=Building+Digital+Products+with+Code;Exploring+Web,+Backend,+and+AI;Always+Learning,+Always+Improving" />
 
 </div>
 
@@ -22,7 +20,7 @@
 
 ---
 
-# 👤 About Me
+# About Me
 
 ```txt
 > started from curiosity
@@ -39,7 +37,7 @@ currently exploring:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Main Stack
 
@@ -61,7 +59,7 @@ currently exploring:
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -75,7 +73,7 @@ currently exploring:
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```yaml
 learning:
@@ -96,11 +94,11 @@ mindset:
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FDHL--FDK-1F6FEB?style=for-the-badge&logo=firefox&logoColor=white)](https://fdhlfdk.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FDHL--FDK-4ADE80?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1A5C38)](https://fdhlfdk.my.id)
 
 </div>
 
@@ -111,3 +109,7 @@ mindset:
 > *"Keep learning. Keep building. Until you get exactly what you want."*
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4ADE80,100:0D1117&section=footer"/>
+
+</div>
