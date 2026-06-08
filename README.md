@@ -53,7 +53,7 @@ currently exploring:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,fastapi,docker,redis,pytorch,tensorflow,aws,kubernetes,graphql,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,fastapi,nestjs,docker,redis,pytorch,tensorflow,aws,kubernetes,graphql,nginx&theme=dark" />
 
 </div>
 
