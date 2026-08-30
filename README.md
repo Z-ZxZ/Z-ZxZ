@@ -1,21 +1,16 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1A5C38,100:4ADE80&text=FDHL-FDK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descAlignY=58&descSize=20"/>
-
 <br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1200&color=4ADE80&center=true&vCenter=true&width=850&lines=Building+Digital+Products+with+Code;Exploring+Web,+Backend,+and+AI;Always+Learning,+Always+Improving" />
-
 </div>
 
 ---
 
 <div align="center">
 
-### Developer who enjoys building useful products, experimenting with new technologies, and turning ideas into real applications.
+### Developer who enjoys building useful products, experimenting with new technologies, and turning ideas into real applications. Builds under **FDHL-FDK**, in partnership with **Prism Tech**.
 
 </div>
-
 <br/>
 
 ---
@@ -40,21 +35,14 @@ currently exploring:
 # Tech Stack
 
 ## Main Stack
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,python,postgres,tailwind,supabase&theme=dark" />
-
 </div>
-
 <br/>
 
 ## Currently Exploring
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=go,fastapi,nestjs,docker,redis,pytorch,tensorflow,aws,kubernetes,graphql,nginx&theme=dark" />
-
 </div>
 
 ---
@@ -65,6 +53,7 @@ currently exploring:
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| **PrismCode** | BYOK AI coding-agent CLI with a built-in terminal UI, built with Prism Tech. | TypeScript • Bun • OpenTUI |
 | **Aether** | Personal AI assistant focused on realtime interaction and intelligent workflows. | FastAPI • WebSocket • PyTorch |
 | **Librava** | Library management platform with authentication, API integration, and database management. | Next.js • Go • PostgreSQL |
 | **Money Manager** | Personal finance tracker focused on simplicity, usability, and responsive experience. | Flutter • Firebase • Dart |
@@ -80,12 +69,10 @@ learning:
   - Full Stack Development
   - Backend Engineering
   - AI Integration
-
 improving:
   - Code Quality
   - System Design
   - User Experience
-
 mindset:
   - Stay Curious
   - Keep Building
@@ -107,9 +94,7 @@ mindset:
 <div align="center">
 
 > *"Keep learning. Keep building. Until you get exactly what you want."*
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4ADE80,100:0D1117&section=footer"/>
 
 </div>
